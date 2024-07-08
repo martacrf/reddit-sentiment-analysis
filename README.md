@@ -6,14 +6,14 @@
 Determine the tendency of negative feelings among people in the world by analyzing the sentiment of comments on Reddit. We will compare comments from 2019 to those from the present across 40 subreddits. Our aim is to identify whether comments have become more negative or positive over time and uncover the key words frequently used in discussions.
 
 #### Key Areas of Analysis:
-Sentiment Trends: Analyze whether there is an observable trend in the sentiment of Reddit comments over time. Are comments becoming more negative or positive? </br>
-Topic Identification: Discover what people are talking about in various subreddits by identifying common themes and topics. </br>
-Frequent Words: Determine the most frequently occurring words in comments to understand the general sentiment and topics of discussion. </br>
-General Sentiment: Assess the overall sentiment distribution of comments to see if they are predominantly positive or negative. </br>
+- Sentiment Trends: Analyze whether there is an observable trend in the sentiment of Reddit comments over time. Are comments becoming more negative or positive? </br>
+- Topic Identification: Discover what people are talking about in various subreddits by identifying common themes and topics. </br>
+- Frequent Words: Determine the most frequently occurring words in comments to understand the general sentiment and topics of discussion. </br>
+- General Sentiment: Assess the overall sentiment distribution of comments to see if they are predominantly positive or negative. </br>
 
 #### Audience
-Data Scientists and Analysts: Professionals interested in understanding how sentiment analysis can be applied to social media data, particularly Reddit comments, and the methodologies involved in such an analysis. </br>
-General Public: Individuals who are curious about the general mood and key topics discussed in the "r/worldnews" subreddit over the past five years. </br>
+- Data Scientists and Analysts: Professionals interested in understanding how sentiment analysis can be applied to social media data, particularly Reddit comments, and the methodologies involved in such an analysis. </br>
+- General Public: Individuals who are curious about the general mood and key topics discussed in the "r/worldnews" subreddit over the past five years. </br>
 
 #### Data Source:
 We are using two main data sources:
@@ -21,9 +21,9 @@ We are using two main data sources:
 - Comments retrieved from the same 40 subreddits using the Reddit API, focusing on the most recent data available.
 
 #### File organization:
-Report Overview - Introduction to the project, its objectives, and the target audience.</br>
-Data Overview - Dataset description, its sources, and the variables analyzed.</br>
-Data Cleaning and preparation - Steps taken to clean and preprocess the data for analysis.</br>
-Exploratory Data Analysis (EDA) - Data analysis, including sentiment trends, topic identification, frequent words, and general sentiment distribution.</br>
-Visualization - Presentation of key findings through visualizations such as charts, graphs, and word clouds.</br>
-Conclusions - Summary of key findings and insights derived from the analysis. Discussion of implications for understanding public sentiment and potential areas for future research.</br>
+- Report Overview - Introduction to the project, its objectives, and the target audience.</br>
+- Data Overview - Dataset description, its sources, and the variables analyzed.</br>
+- Data Cleaning and preparation - Steps taken to clean and preprocess the data for analysis.</br>
+- Exploratory Data Analysis (EDA) - Data analysis, including sentiment trends, topic identification, frequent words, and general sentiment distribution.</br>
+- Visualization - Presentation of key findings through visualizations such as charts, graphs, and word clouds.</br>
+- Conclusions - Summary of key findings and insights derived from the analysis. Discussion of implications for understanding public sentiment and potential areas for future research.</br>
